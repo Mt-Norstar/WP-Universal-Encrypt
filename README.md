@@ -1,4 +1,6 @@
 # WP-Universal-Encrypt
+
+<br>CURRENTLY DEVELOPMENT IS ON HOLD
 <br>New (December 2023) total encryption plugin for wordpress. Mission is to add military grade encryption capabilities across wordpress. 
 <br>Realize this plugin is in its infant stages.
 <br>It is distributed under the GPL
